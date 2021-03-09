@@ -2,3 +2,4 @@
 2.System error 5 has occurred(Rabbitmq) => make sure you are run the RabbitMq commandline as an adminstartor
 3.docker container run command example => docker container run -d --name web -p 8000:8080 melvinkimathi/gsd:first-ctr
   web => name of the conatiner, melvinkimathi/gsd:first-ctr => repo name
+4.to access spring-boot-actuator endpoints => localhost:8080/actuator
